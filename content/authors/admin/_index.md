@@ -20,7 +20,7 @@ interests:
 - Information Retrieval
 organizations:
 - name: PwC Czech Republic
-  url: https://www.stanford.edu/
+  url: www.pwc.com/cz
 role: Manager in Financial Risk Modeling
 social:
 - icon: envelope
