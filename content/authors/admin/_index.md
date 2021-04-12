@@ -15,7 +15,7 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
+- Industry Organization
 - Computational Linguistics
 - Information Retrieval
 organizations:
