@@ -1,23 +1,22 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My expertise is in the area of banking and financial regulations with a particular focus on model risk management and model validation. 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Law & Economics
+    institution: University of Turin
+    year: 2016
+  - course: MSc in Economics
+    institution: Vrije Universiteit Amsterdam
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
 highlight_name: false
 interests:
+- Financial Risk Management
+- Credit Risk Validation
+- Model Audit
+- Model Risk
 - Industry Organization
-- Computational Linguistics
-- Information Retrieval
+- Economic History
 organizations:
 - name: PwC Czech Republic
   url: www.pwc.com/cz
@@ -28,10 +27,7 @@ social:
   link: /#contact
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.cz/citations?user=AH2rG40AAAAJ&hl=cs
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/david-dolejší-76633930
@@ -43,4 +39,4 @@ I am a highly motivated and results driven economist who has an education in the
 
 My expertise is in the area of banking and financial regulations with a particular focus on model risk management and model validation. I am skilled in credit risk model development, validation, audit and methodology design under various regulations including ECB Guidelines, Basel II and IFRS9. I have experience in leading end to end development of complex model risk solutions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
